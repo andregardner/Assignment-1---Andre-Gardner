@@ -11,6 +11,6 @@ public class Andre {
         System.out.println("   //    \\      //      ______     ");
         System.out.println("  //______\\     ||      ||   ||    ");
         System.out.println(" //        \\    \\          //     ");
-        System.out.println("//          \\	  \\________//      ");
+        System.out.println("//          \\\\________//      ");
     }
 }
